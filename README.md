@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi, I'm Samiali</h1>
-<h3 align="center">I am currently pursuing a bachelor's degree in Artificial Intelligence and Data Science at Dr. D. Y. Patil Institute of Technology, Pimpri, Pune. With a strong passion for technology and innovation, I aim to continuously enhance my technical and analytical skills through practical learning and real-world applications. My key interests include machine learning, data analytics, deep learning, and artificial intelligence. I am always eager to explore new tools, solve challenging problems, and grow in the ever-evolving field of AI and data science.</h3>
+<h3 align="center">I am currently pursuing a bachelor's degree in Artificial Intelligence and Data Science. With a strong passion for technology and innovation, I aim to continuously enhance my technical and analytical skills through practical learning and real-world applications. My key interests include machine learning, data analytics, deep learning, and artificial intelligence. I am always eager to explore new tools, solve challenging problems, and grow in the ever-evolving field of AI and data science.</h3>
 
 <p align="left">
 </p>
