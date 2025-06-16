@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samiali Mulla</h1>
 <h3 align="center">I aim to continuously enhance my technical and analytical skills through practical learning and real-world applications.</h3>
 
-- 🔭 I’m currently working on **Explainable AI**
-
-- 👯 I’m looking to collaborate on **machine learning, data analytics, deep learning Projects**
+- 🔭 I’m currently working on **machine learning, data analytics, deep learning**
 
 - 📫 How to reach me **samialimulla03@gmail.com**
 
